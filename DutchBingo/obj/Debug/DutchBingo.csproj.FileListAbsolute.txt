@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\obj\Debug\DutchBingo.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\obj\Debug\DutchBingo.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\bin\Debug\DutchBingo.exe.config
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\bin\Debug\DutchBingo.exe
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\bin\Debug\DutchBingo.pdb
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\obj\Debug\DutchBingo.exe
+C:\Users\jacob\source\repos\DutchBingo\DutchBingo\obj\Debug\DutchBingo.pdb
